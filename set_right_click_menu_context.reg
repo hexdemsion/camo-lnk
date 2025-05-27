@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\Camouflage_this_file]
+
+[HKEY_CLASSES_ROOT\*\shell\Camouflage_this_file\command]
+@="\"C:\\Users\\%USERNAME%\\Desktop\\camo\\target\\debug\\hider.exe\" \"%1\""
+
+
+
+[HKEY_CLASSES_ROOT\lnkfile\shell\Recover_this_file]
+
+[HKEY_CLASSES_ROOT\lnkfile\shell\Recover_this_file\command]
+@="\"C:\\Users\\%USERNAME%\\Desktop\\camo\\target\\debug\\recover.exe\" \"%L\""

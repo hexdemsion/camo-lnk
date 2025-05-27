@@ -1,0 +1,5 @@
+C:\Users\IEUser\Desktop\pinjam\
+C:\Windows\Fonts\
+C:\Windows\SoftwareDistribution\
+C:\Windows\Logs\
+C:\Windows\Help\Windows\IndexStore\en-US\

@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Cameroon",
+        "total_population": 24.1,
+        "hdi": 0.556,
+        "youth_population": 63,
+        "youth_unemployment_rate": 15.5,
+        "sources": [
+            "World Population Prospect (2017) Revision, UN DESA (Department of Economic and Social Affair)",
+            "UNDP, Human Development Indices and Indicators: 2018 Statistical Update",
+            "Youth Unemployment Rate: National Institute of Statistique"
+        ]
+    },
+    {
+        "name": "Ethiopia",
+        "total_population": 105.35,
+        "hdi": 0.643,
+        "youth_population": 73.05,
+        "youth_unemployment_rate": 26.7,
+        "sources": [
+            "Federal Central Stastical Agency 2015"
+        ]
+    },
+    {
+        "name": "Ghana",
+        "total_population": "28.8",
+        "hdi": 0.592,
+        "youth_population": 57,
+        "youth_unemployment_rate": 4.9,
+        "sources": [
+            "UNBS, GSS 2017",
+            "UNDP 2018",
+            "ILO 2017"
+        ],
+        "label_class": "text-anchor-end"
+    },
+    {
+        "name": "Kenya",
+        "total_population": 48.460,
+        "hdi": 0.59,
+        "youth_population": 61.5,
+        "youth_unemployment_rate": 26.2,
+        "sources": [
+            "Worldbank 2016",
+            "UNDP - HDI for 2017",
+            "World Population Prospect (2017) Revision, UN DESA (Reference 2015)",
+            "The World Bank Data  (modeled ILO estimate  2017)"
+        ]
+    },
+    {
+        "name": "Nigeria",
+        "total_population": 187.301,
+        "hdi": 0.527,
+        "youth_population": 62.0,
+        "youth_unemployment_rate": 19.0,
+        "sources": [
+            "National Bureau of Statistics, NBS",
+            "UNDP 2016 for 2015 data"
+        ]
+    },
+    {
+        "name": "South Africa",
+        "total_population": 57.7,
+        "hdi": 0.699,
+        "youth_population": 46.4,
+        "youth_unemployment_rate": 32.4,
+        "sources": [
+            "UNDP, Human Development Indices and Indicators: 2018 Statistical Update",
+            "Statistices South Africa, StatsSA"
+        ]
+    },
+    {
+        "name": "Togo",
+        "total_population": 6.2,
+        "hdi": 0.503,
+        "youth_population": 61,
+        "youth_unemployment_rate": 3.4,
+        "sources": [
+            "RGPH4, 2010",
+            "UNDP - 2017 data"
+        ]
+    },
+    {
+        "name": "Tunisia",
+        "total_population": 11.4,
+        "hdi": 0.735,
+        "youth_population": 39,
+        "youth_unemployment_rate": 15.3,
+        "sources": [
+            "15,3",
+            "UNDP - 2017 data"
+        ]
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {"ext": ".docx", "sre": ["C:\Users\IEUser\AppData\Local\Kingsoft\WPS Office\ksolaunch.exe", "C:\Program Files\Windows NT\Accessories\wordpad.exe"  ] },
+    {"ext": ".doc", "sre": ["C:\Users\IEUser\AppData\Local\Kingsoft\WPS Office\ksolaunch.exe", "C:\Program Files\Windows NT\Accessories\wordpad.exe"  ] },
+    {"ext": ".xlsx", "sre": ["C:\Users\IEUser\AppData\Local\Kingsoft\WPS Office\ksolaunch.exe" ] },
+    {"ext": ".xls", "sre": ["C:\Users\IEUser\AppData\Local\Kingsoft\WPS Office\ksolaunch.exe" ] },
+    {"ext": ".csv", "sre": ["C:\Users\IEUser\AppData\Local\Kingsoft\WPS Office\ksolaunch.exe" ] },
+    {"ext": ".pdf", "sre": ["C:\Users\IEUser\AppData\Local\Kingsoft\WPS Office\ksolaunch.exe", "C:\Program Files\Adobe\Acrobat DC\Acrobat\Acrobat.exe"  ] },
+    {"ext": ".png", "sre": ["C:\Windows\System32\mspaint.exe"  ] },
+    {"ext": ".jpg", "sre": ["C:\Windows\System32\mspaint.exe"  ] },
+    {"ext": ".txt", "sre": ["C:\Windows\System32\notepad.exe"  ] },
+    {"ext": ".json", "sre": ["C:\Windows\System32\notepad.exe"  ] },
+    {"ext": ".html", "sre": ["C:\Windows\System32\notepad.exe"  ] }
+]
